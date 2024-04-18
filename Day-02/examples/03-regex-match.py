@@ -1,3 +1,4 @@
+# This code used to get the word we provided in the first word in the line"
 import re
 
 text = "The quick brown fox"
